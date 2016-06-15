@@ -4,8 +4,8 @@
     <id>CrossChannel.NoBus</id>
     <version>0.0.0</version>
     <authors>Scott Keith Thomas, Jr.</authors>
-    <description>CrossChannel.NoBus</description>
-    <tags>CrossChannel.NoBus</tags>
+    <description>CrossChannel.NoBus is a infrastructureless service bus operating using peer-to-peer (P2P) communications.</description>
+    <tags>bus communications ipc mesh p2p peer servicebus tcp wcf</tags>
     <iconUrl>https://raw.githubusercontent.com/skthomasjr/CrossChannel.NoBus/master/Build/NuGet/Package.png</iconUrl>
     <licenseUrl>https://raw.githubusercontent.com/skthomasjr/CrossChannel.NoBus/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/skthomasjr/CrossChannel.NoBus</projectUrl>
