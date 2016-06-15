@@ -2,11 +2,11 @@
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("CrossChannel.NoBus")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("CrossChannel.NoBus is a infrastructureless service bus operating using peer-to-peer (P2P) communications.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Scott Keith Thomas, Jr.")]
 [assembly: AssemblyProduct("CrossChannel.NoBus")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCopyright("Copyright © 2016 Scott Keith Thomas, Jr.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
